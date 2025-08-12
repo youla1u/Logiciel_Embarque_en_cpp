@@ -1,0 +1,2 @@
+Potion10:Ajoute 10 hp:10
+Potion20:Ajoute 20 hp:20:Personnage:Alex Starborn

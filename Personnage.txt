@@ -1,0 +1,4 @@
+Spaceship:Odyssey:Personnage:Alex Starborn:Description du personnage Alex Starbor,:100:70:15
+Planet:Terre:Personnage:Dr. Liara:Description du personnage Dr. Liara:80:20:10
+Planet:Mars:Enemy:Soldat1:Description du soldat1:100:10:10
+Planet:Terre:Enemy:Soldat2:Description du soldat2:100:10:10
