@@ -1,5 +1,5 @@
 # 🎮 Projet Jeu C++ - Environnement embarqué (Raspberry Pi)
- 
+  
 ## 📌 Contexte
 Ce projet consiste à développer un jeu en **C++** orienté objet, en utilisant les **pointeurs intelligents** et en appliquant les bonnes pratiques de conception logicielle.  
 L’application est ensuite compilée et flashée sur un environnement embarqué type **Raspberry Pi**.
