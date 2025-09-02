@@ -5,7 +5,7 @@ Ce projet consiste à développer un jeu en **C++** orienté objet, en utilisant
 L’application est ensuite compilée et flashée sur un environnement embarqué type **Raspberry Pi**.
  
 ## 🛠️ Technologies utilisées
-- **C++ (POO, STL, Smart Pointers)**
+- **C++ (POO, STL, Smart Pointers)** 
 - **Qt** : Développement de l’Interface Homme-Machine (IHM)
 - **JSON** : Gestion et stockage des données
 - **CMake** : Génération multiplateforme
