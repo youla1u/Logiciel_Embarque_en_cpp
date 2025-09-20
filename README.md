@@ -4,7 +4,7 @@
 Ce projet consiste à développer un jeu en **C++** orienté objet, en utilisant les **pointeurs intelligents** et en appliquant les bonnes pratiques de conception logicielle.  
 L’application est ensuite compilée et flashée sur un environnement embarqué type **Raspberry Pi**.
  
-## 🛠️ Technologies utilisées
+## 🛠️ Technologies utilisées 
 - **C++ (POO, STL, Smart Pointers)** 
 - **Qt** : Développement de l’Interface Homme-Machine (IHM)
 - **JSON** : Gestion et stockage des données
